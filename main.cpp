@@ -22,7 +22,7 @@
 #include <Shlwapi.h>
 #include <VersionHelpers.h>
 
-// disabe warning C4201: nonstandard extension used: nameless struct/union
+// disable warning C4201: nonstandard extension used: nameless struct/union
 // This program has no goal or intention of being cross-compiled or cross-platform compatible.
 #pragma warning(disable:4201)
 
